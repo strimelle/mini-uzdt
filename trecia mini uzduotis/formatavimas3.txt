@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>formatavimas3</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Kiti fomatavimo pavyzdžiai</h1>
+        <address> 
+          <p style="line-height: 0.0em">Adresas: </p>
+          <p style="line-height: 0.0em">Studentų g. 17, </p>
+          <p style="line-height: 0.0em">LT-62252 Alytus</p>
+          </address>
+        <p><abbr title="Vilniaus Universitetas">VU</abbr> įkurtas 1579 m. balandžio 1 d.</p>
+
+    <h1>Simbolių įterpimas</h1>
+      <p>Alytaus koordinatės: 54&deg; 23&rsquo; 20&rdquo; N, 24&deg; 2&rsquo; 50&rdquo; E</p>
+        <p>&pi; &asymp; 3,1416</p>
+        <p>&Delta;<i>y</i> &lt; &epsilon;</p>
+        <p>&frac34&gt;&frac12</p>
+
+  </body>
+
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Pasaulio stebuklai</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+  <div id="viskas">
+    <header>
+      <h1>Septyni pasaulio stebuklai</h>
+    </header>
+    <section>
+	
+      <article>
+        <h2>Cheopso piramidė</h2>
+        <figure>
+          <img src="piramide.jpg" alt="">
+          <figcaption>Cheopso piramidė</figcaption>
+          </figure>
+        <p>Cheopso piramidė yra viena garsiausių senovės Egipto statinių. Ji buvo pastatyta apie 2560 m. pr. Kr. faraonui Cheopsui ir yra Gizos piramidžių komplekse. Tai vienintelė iš septynių senovės pasaulio stebuklų, išlikusi iki mūsų dienų.</p>
+        <p>Piramidė buvo pastatyta iš milijonų akmens blokų, kurių dauguma pagaminti iš kalkakmenio. Jos pradinis aukštis siekė apie 146 metrus, tačiau dėl ilgalaikio akmenų irimo bei viršūnės praradimo dabar ji yra šiek tiek žemesnė. Manoma, kad piramidės statyba truko kelis dešimtmečius.</p>
+        <p>Cheopso piramidė buvo pastatyta kaip faraono kapas. Viduje yra keli kambariai ir koridoriai, tarp jų – Karaliaus rūmai. Šis įspūdingas statinys rodo, kokių sudėtingų statybos ir inžinerijos žinių turėjo senovės egiptiečiai.</p><hr></hr>
+      </article>
+
+      <article>
+        <h2>Semiramidės kabantieji sodai</h2>
+        <figure>
+          <img src="sodai.jpg" alt="">
+          <figcaption>Semiramidės kabantieji sodai</figcaption>
+          </figure>
+        <p>Semiramidės kabantieji sodai buvo vienas iš septynių senovės pasaulio stebuklų. Manoma, kad jie buvo pastatyti Babilono mieste, dabartinio Irako teritorijoje. Sodai garsėjo savo įspūdingomis terasomis, kuriose augo įvairūs medžiai, gėlės ir kiti augalai.</p>
+        <p>Pasakojama, kad sodai buvo įrengti ant kelių aukštų terasų, todėl iš tolo atrodė tarsi kabantys ore. Manoma, kad augalams laistyti buvo naudojama sudėtinga vandens tiekimo sistema. Vis dėlto istorikai iki šiol nėra visiškai tikri, ar šie sodai iš tikrųjų egzistavo.</p>
+        <p>Pasak senovės šaltinių, sodai galėjo būti pastatyti Babilono karaliaus Nebukadnecaro II laikais. Jie tapo senovės Babilono turtingumo ir išradingumo simboliu. Iki mūsų dienų sodai neišliko, todėl apie jų išvaizdą žinome daugiausia iš senovės pasakojimų.</p><hr></hr>
+      </article>
+
+      <article>
+        <h2>Dzeuso statula Olimpijoje</h2>
+        <figure>
+          <img src="statula.jpg" alt="">
+          <figcaption>Dzeuso statula Olimpijoje</figcaption>
+          </figure>
+        <p>Dzeuso statula buvo vienas iš septynių senovės pasaulio stebuklų. Ji stovėjo Olimpijoje, senovės Graikijoje, didelėje Dzeusui skirtoje šventykloje. Statulą V amžiuje prieš Kristų sukūrė garsus graikų skulptorius Fidijas.</p>
+        <p>Statula buvo apie 12 metrų aukščio ir vaizdavo sėdintį dievą Dzeusą. Jos kūrimui buvo naudojamas auksas, dramblio kaulas ir kitos brangios medžiagos. Dėl savo dydžio, grožio ir prabangos statula buvo laikoma vienu įspūdingiausių senovės meno kūrinių.</p>
+        <p>Deja, Dzeuso statula iki mūsų dienų neišliko. Manoma, kad ji buvo sunaikinta vėlesniais laikais, tačiau tiksliai nežinoma, kaip tai įvyko. Apie statulą šiandien galima sužinoti iš senovės rašytojų aprašymų ir įvairių istorinių atvaizdų.</p><hr></hr>
+      </article>
+
+      <article>
+        <h2>Artemidės šventykla Efese</h2>
+        <figure>
+          <img src="sventykla.jpg" alt="">
+          <figcaption>Artemidės šventykla Efese</figcaption>
+          </figure>
+        <p>Artemidės šventykla buvo pastatyta Efese, senovės mieste, kuris dabar yra Turkijos teritorijoje. Šventykla buvo skirta graikų deivei Artemidei, kuri buvo siejama su gamta, medžiokle ir vaisingumu. Ji buvo laikoma viena įspūdingiausių senovės pasaulio šventyklų.</p>
+        <p>Šventykla buvo labai didelė ir turėjo daugybę aukštų marmurinių kolonų. Joje buvo įvairių skulptūrų ir kitų meno kūrinių. Šventykla kelis kartus buvo sunaikinta ir atstatyta, todėl jos istorija buvo ilga ir sudėtinga.</p>
+        <p>Iki mūsų dienų išliko tik nedidelė šventyklos dalis ir keli jos griuvėsiai. Nepaisant to, Artemidės šventykla išliko svarbiu senovės architektūros simboliu. Jos istorija parodo, kokio masto ir grožio pastatus žmonės sugebėjo sukurti prieš daugiau kaip du tūkstančius metų.</p><hr></hr>
+      </article>
+
+      <article>
+        <h2>Halikarnaso mauzoliejus</h2>
+        <figure>
+          <img src="mauzoliejus.jpg" alt="">
+          <figcaption>Halikarnaso mauzoliejus</figcaption>
+          </figure>
+        <p>Halikarnaso mauzoliejus buvo didžiulis kapas, pastatytas Halikarnaso mieste, dabartinės Turkijos teritorijoje. Jis buvo skirtas Karijos valdovui Mausolui ir jo žmonai Artemisijai. Statinys buvo pradėtas statyti IV amžiuje prieš Kristų.</p>
+        <p>Mauzoliejus buvo papuoštas daugybe skulptūrų, kolonų ir kitų dekoratyvių elementų. Pastatas buvo apie 45 metrų aukščio ir išsiskyrė savo įspūdinga architektūra. Jo išvaizdą kūrė garsūs to meto graikų skulptoriai ir architektai.</p>
+        <p>Halikarnaso mauzoliejus stovėjo daugybę šimtmečių, tačiau vėliau buvo stipriai apgadintas žemės drebėjimų. Galiausiai jo akmenys buvo panaudoti kitų pastatų statybai. Šiandien iš mauzoliejaus liko tik griuvėsiai ir archeologiniai radiniai.</p><hr></hr>
+      </article>
+
+      <article>
+        <h2>Rodo kolosas</h2>
+        <figure>
+          <img src="kolosas.jpg" alt="">
+          <figcaption>Cheopso piramidė</figcaption>
+          </figure>
+        <p>Rodo kolosas buvo milžiniška graikų dievo Helijo, saulės dievo, statula. Ji stovėjo Rodo saloje, Graikijoje, ir buvo pastatyta III amžiuje prieš Kristų. Statula buvo sukurta kaip Rodo gyventojų pergalės ir stiprybės simbolis.</p>
+        <p>Kolosas buvo pagamintas iš bronzos ir siekė apie 30 metrų aukštį. Tuo metu tai buvo vienas didžiausių žmogaus sukurtų statinių. Statulos statyba truko maždaug dvylika metų ir pareikalavo daug darbo bei išteklių.</p>
+        <p>Deja, Rodo kolosas stovėjo tik kelis dešimtmečius. Jis buvo sunaikintas per stiprų žemės drebėjimą ir daugiau niekada nebuvo atstatytas. Nors šiandien statulos nebėra, Rodo kolosas iki šiol yra vienas žinomiausių senovės pasaulio stebuklų.</p><hr></hr>
+      </article>
+
+      <article>
+        <h2>Aleksandrijos švyturys</h2>
+        <figure>
+          <img src="svyturys.jpg" alt="">
+          <figcaption>Aleksandrijos švyturys</figcaption>
+          </figure>
+        <p>Aleksandrijos švyturys buvo pastatytas Faroso saloje prie Aleksandrijos miesto Egipte. Jis buvo pastatytas III amžiuje prieš Kristų ir buvo skirtas padėti laivams saugiai pasiekti uostą. Švyturys buvo vienas aukščiausių savo laikų statinių.</p>
+        <p>Manoma, kad švyturys buvo daugiau kaip 100 metrų aukščio ir turėjo kelis aukštus. Jo viršuje degė ugnis, kurios šviesa padėdavo jūreiviams orientuotis naktį. Dieną laivams galėjo padėti ir šviesą atspindintys paviršiai.</p>
+        <p>Aleksandrijos švyturys išliko daugelį šimtmečių, tačiau jį sugriovė keli stiprūs žemės drebėjimai. Jo akmenys vėliau buvo panaudoti kitų pastatų statybai. Šiandien švyturio vietoje galima rasti tik archeologinių liekanų.</p>
+      </article>
+
+    </section>
+    <footer>
+      <hr>
+      <address>2026 &copy; ieva mazolevska</address>
+    </footer>
+  </div>
+  </body>
+</html>

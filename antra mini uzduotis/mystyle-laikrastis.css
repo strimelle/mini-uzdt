@@ -1,0 +1,15 @@
+body{ font-family: Arial; }
+h1 { text-transform: uppercase; color: #999 }
+h2 { font-style: italic; color: #999 }
+h3 { text-decoration: overline; color: #999 }
+p { margin: 0 10pt; text-indent: 2cm; text-align: justify; color: #000; }
+hr { height: 5px; width: 50%; background: #007; }
+address { text-align: center; color: #999 }
+div {
+  -moz-column-count: 3; /*Firefox */
+  -webkit-column-count: 3; /*SafariandChrome */
+  column-count: 3;
+  -moz-column-rule: 4px outset#ff00ff;
+  -webkit-column-rule:4px outset#ff00ff;
+  column-rule: 4px outset#ff00ff;
+}
