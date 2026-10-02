@@ -1,0 +1,9 @@
+*{
+margin: 0;
+padding: 0;
+}
+body {background: #FC6;} /*oranžinė spalva*/
+*page{
+background: #F86;
+margin:0 auto;
+width: 600px;}
